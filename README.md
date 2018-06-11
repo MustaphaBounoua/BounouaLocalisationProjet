@@ -6,7 +6,8 @@ Localisation en utilisant :
 L'appplication utilise :
 
 android.permission.ACCESS_COARSE_LOCATION qui utilise le wifi et reseau mobile pour minimiser l'usage de la batterie
-l'option : PRIORITY_BALANCED_POWER_ACCURACY
+l'option : PRIORITY_BALANCED_POWER_ACCURACY 
+Vu que si les 2 modes wifi et données mobile , le système android priorise le wifi donc 
 
 Remarque!!!
 
