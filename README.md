@@ -11,3 +11,4 @@ l'option : PRIORITY_BALANCED_POWER_ACCURACY
 Remarque!!!
 
 Si la position (le marker ne s'affiche pas ) veuillez désactiver et reactiver la localisation
+![alt text](screen.png "Description goes here")
